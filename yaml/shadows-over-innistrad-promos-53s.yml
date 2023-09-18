@@ -1,0 +1,126 @@
+---
+object: card
+id: 737e1dad-e6f6-4fea-a015-17f3c01eb10b
+oracle_id: a30d076b-c942-45e4-b943-3749ce955291
+multiverse_ids: []
+tcgplayer_id: 116857
+cardmarket_id: 289356
+name: Confirm Suspicions
+lang: en
+released_at: '2016-04-08'
+uri: https://api.scryfall.com/cards/737e1dad-e6f6-4fea-a015-17f3c01eb10b
+scryfall_uri: https://scryfall.com/card/psoi/53s/confirm-suspicions?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/3/737e1dad-e6f6-4fea-a015-17f3c01eb10b.jpg?1562916427
+  normal: https://cards.scryfall.io/normal/front/7/3/737e1dad-e6f6-4fea-a015-17f3c01eb10b.jpg?1562916427
+  large: https://cards.scryfall.io/large/front/7/3/737e1dad-e6f6-4fea-a015-17f3c01eb10b.jpg?1562916427
+  png: https://cards.scryfall.io/png/front/7/3/737e1dad-e6f6-4fea-a015-17f3c01eb10b.png?1562916427
+  art_crop: https://cards.scryfall.io/art_crop/front/7/3/737e1dad-e6f6-4fea-a015-17f3c01eb10b.jpg?1562916427
+  border_crop: https://cards.scryfall.io/border_crop/front/7/3/737e1dad-e6f6-4fea-a015-17f3c01eb10b.jpg?1562916427
+mana_cost: "{3}{U}{U}"
+cmc: 5.0
+type_line: Instant
+oracle_text: |-
+  Counter target spell.
+  Investigate three times. (To investigate, create a Clue token. It's an artifact with "{2}, Sacrifice this artifact: Draw a card.")
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Investigate
+all_parts:
+- object: related_card
+  id: 3d66ec9c-7e5d-47ca-bce4-46798152d1f4
+  component: token
+  name: Clue
+  type_line: Token Artifact — Clue
+  uri: https://api.scryfall.com/cards/3d66ec9c-7e5d-47ca-bce4-46798152d1f4
+- object: related_card
+  id: 737e1dad-e6f6-4fea-a015-17f3c01eb10b
+  component: combo_piece
+  name: Confirm Suspicions
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/737e1dad-e6f6-4fea-a015-17f3c01eb10b
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e1068688-13ff-4a3f-8c66-439162505e7a
+set: psoi
+set_name: Shadows over Innistrad Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e1068688-13ff-4a3f-8c66-439162505e7a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsoi&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psoi?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/737e1dad-e6f6-4fea-a015-17f3c01eb10b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa30d076b-c942-45e4-b943-3749ce955291&unique=prints
+collector_number: 53s
+digital: false
+rarity: rare
+flavor_text: Everyone has something to hide.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: David Gaillet
+artist_ids:
+- 3496c5b4-57bf-4e5e-8bac-a1e05a911a2d
+illustration_id: 5a7ff760-ecff-41f3-a49a-6e145609dad5
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 6828
+penny_rank: 1618
+prices:
+  usd: 
+  usd_foil: '1.11'
+  usd_etched: 
+  eur: 
+  eur_foil: '1.08'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Confirm+Suspicions&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Confirm+Suspicions&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Confirm+Suspicions
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/116857?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Confirm+Suspicions&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Confirm+Suspicions&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,127 @@
+---
+object: card
+id: 9be960b2-8151-4ca0-8d85-c1150044475a
+oracle_id: a8bac5a8-5a60-4f7a-a4d6-cb922da92472
+multiverse_ids: []
+tcgplayer_id: 115403
+cardmarket_id: 289360
+name: Drogskol Cavalry
+lang: en
+released_at: '2016-04-08'
+uri: https://api.scryfall.com/cards/9be960b2-8151-4ca0-8d85-c1150044475a
+scryfall_uri: https://scryfall.com/card/psoi/15/drogskol-cavalry?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/b/9be960b2-8151-4ca0-8d85-c1150044475a.jpg?1562924048
+  normal: https://cards.scryfall.io/normal/front/9/b/9be960b2-8151-4ca0-8d85-c1150044475a.jpg?1562924048
+  large: https://cards.scryfall.io/large/front/9/b/9be960b2-8151-4ca0-8d85-c1150044475a.jpg?1562924048
+  png: https://cards.scryfall.io/png/front/9/b/9be960b2-8151-4ca0-8d85-c1150044475a.png?1562924048
+  art_crop: https://cards.scryfall.io/art_crop/front/9/b/9be960b2-8151-4ca0-8d85-c1150044475a.jpg?1562924048
+  border_crop: https://cards.scryfall.io/border_crop/front/9/b/9be960b2-8151-4ca0-8d85-c1150044475a.jpg?1562924048
+mana_cost: "{5}{W}{W}"
+cmc: 7.0
+type_line: Creature — Spirit Knight
+oracle_text: |-
+  Flying
+  Whenever another Spirit enters the battlefield under your control, you gain 2 life.
+  {3}{W}: Create a 1/1 white Spirit creature token with flying.
+power: '4'
+toughness: '4'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+all_parts:
+- object: related_card
+  id: 1a5c6454-67fa-4afb-885e-5cdd595c57ab
+  component: combo_piece
+  name: Drogskol Cavalry
+  type_line: Creature — Spirit Knight
+  uri: https://api.scryfall.com/cards/1a5c6454-67fa-4afb-885e-5cdd595c57ab
+- object: related_card
+  id: 3a53a7c6-6b32-4491-8c96-e564abea8880
+  component: token
+  name: Spirit
+  type_line: Token Creature — Spirit
+  uri: https://api.scryfall.com/cards/3a53a7c6-6b32-4491-8c96-e564abea8880
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e1068688-13ff-4a3f-8c66-439162505e7a
+set: psoi
+set_name: Shadows over Innistrad Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e1068688-13ff-4a3f-8c66-439162505e7a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsoi&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psoi?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9be960b2-8151-4ca0-8d85-c1150044475a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa8bac5a8-5a60-4f7a-a4d6-cb922da92472&unique=prints
+collector_number: '15'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Johann Bodin
+artist_ids:
+- d92e2dd9-9ef6-43f6-81f8-df87f9066983
+illustration_id: 16060580-c06c-479d-aeb9-29a70eae8c5b
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- intropack
+edhrec_rank: 9186
+penny_rank: 14777
+prices:
+  usd: 
+  usd_foil: '0.82'
+  usd_etched: 
+  eur: 
+  eur_foil: '1.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Drogskol+Cavalry&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Drogskol+Cavalry&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Drogskol+Cavalry
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/115403?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Drogskol+Cavalry&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Drogskol+Cavalry&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

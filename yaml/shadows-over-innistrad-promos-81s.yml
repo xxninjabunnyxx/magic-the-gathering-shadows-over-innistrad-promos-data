@@ -1,0 +1,117 @@
+---
+object: card
+id: 43492eff-73d8-4264-a742-902ae5bf4993
+oracle_id: ee2ca311-7639-436d-8ecb-d2aad075f25f
+multiverse_ids: []
+tcgplayer_id: 116896
+cardmarket_id: 289322
+name: Rattlechains
+lang: en
+released_at: '2016-04-08'
+uri: https://api.scryfall.com/cards/43492eff-73d8-4264-a742-902ae5bf4993
+scryfall_uri: https://scryfall.com/card/psoi/81s/rattlechains?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/3/43492eff-73d8-4264-a742-902ae5bf4993.jpg?1562907318
+  normal: https://cards.scryfall.io/normal/front/4/3/43492eff-73d8-4264-a742-902ae5bf4993.jpg?1562907318
+  large: https://cards.scryfall.io/large/front/4/3/43492eff-73d8-4264-a742-902ae5bf4993.jpg?1562907318
+  png: https://cards.scryfall.io/png/front/4/3/43492eff-73d8-4264-a742-902ae5bf4993.png?1562907318
+  art_crop: https://cards.scryfall.io/art_crop/front/4/3/43492eff-73d8-4264-a742-902ae5bf4993.jpg?1562907318
+  border_crop: https://cards.scryfall.io/border_crop/front/4/3/43492eff-73d8-4264-a742-902ae5bf4993.jpg?1562907318
+mana_cost: "{1}{U}"
+cmc: 2.0
+type_line: Creature — Spirit
+oracle_text: |-
+  Flash
+  Flying
+  When Rattlechains enters the battlefield, target Spirit gains hexproof until end of turn.
+  You may cast Spirit spells as though they had flash.
+power: '2'
+toughness: '1'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+- Flash
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e1068688-13ff-4a3f-8c66-439162505e7a
+set: psoi
+set_name: Shadows over Innistrad Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e1068688-13ff-4a3f-8c66-439162505e7a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsoi&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psoi?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/43492eff-73d8-4264-a742-902ae5bf4993/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aee2ca311-7639-436d-8ecb-d2aad075f25f&unique=prints
+collector_number: 81s
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Lius Lasahido
+artist_ids:
+- 0a0e9093-ce44-4a69-93a7-09b63e7c330d
+illustration_id: 59723a67-cc01-40d5-ad19-a4a64d0a2f27
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 5008
+penny_rank: 1343
+prices:
+  usd: 
+  usd_foil: '7.68'
+  usd_etched: 
+  eur: 
+  eur_foil: '3.50'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rattlechains&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rattlechains&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rattlechains
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/116896?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rattlechains&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rattlechains&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

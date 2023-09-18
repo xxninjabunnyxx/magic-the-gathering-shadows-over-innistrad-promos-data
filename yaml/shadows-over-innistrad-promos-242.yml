@@ -1,0 +1,112 @@
+---
+object: card
+id: fa7a04aa-fd0b-4777-bdfb-8419fee3fbf3
+oracle_id: ad09b3c3-c8e7-481c-8c45-e7f234935117
+multiverse_ids: []
+tcgplayer_id: 115401
+cardmarket_id: 288885
+name: Anguished Unmaking
+lang: en
+released_at: '2016-04-08'
+uri: https://api.scryfall.com/cards/fa7a04aa-fd0b-4777-bdfb-8419fee3fbf3
+scryfall_uri: https://scryfall.com/card/psoi/242/anguished-unmaking?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/a/fa7a04aa-fd0b-4777-bdfb-8419fee3fbf3.jpg?1682719380
+  normal: https://cards.scryfall.io/normal/front/f/a/fa7a04aa-fd0b-4777-bdfb-8419fee3fbf3.jpg?1682719380
+  large: https://cards.scryfall.io/large/front/f/a/fa7a04aa-fd0b-4777-bdfb-8419fee3fbf3.jpg?1682719380
+  png: https://cards.scryfall.io/png/front/f/a/fa7a04aa-fd0b-4777-bdfb-8419fee3fbf3.png?1682719380
+  art_crop: https://cards.scryfall.io/art_crop/front/f/a/fa7a04aa-fd0b-4777-bdfb-8419fee3fbf3.jpg?1682719380
+  border_crop: https://cards.scryfall.io/border_crop/front/f/a/fa7a04aa-fd0b-4777-bdfb-8419fee3fbf3.jpg?1682719380
+mana_cost: "{1}{W}{B}"
+cmc: 3.0
+type_line: Instant
+oracle_text: Exile target nonland permanent. You lose 3 life.
+colors:
+- B
+- W
+color_identity:
+- B
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e1068688-13ff-4a3f-8c66-439162505e7a
+set: psoi
+set_name: Shadows over Innistrad Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e1068688-13ff-4a3f-8c66-439162505e7a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsoi&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psoi?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/fa7a04aa-fd0b-4777-bdfb-8419fee3fbf3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aad09b3c3-c8e7-481c-8c45-e7f234935117&unique=prints
+collector_number: '242'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Viktor Titov
+artist_ids:
+- 2270c0b0-afb4-42b0-bcb6-25fe4ad6eef2
+illustration_id: 15d00dc9-dd2b-4c2a-abb3-6e16444aa431
+border_color: black
+frame: '2015'
+frame_effects:
+- inverted
+security_stamp: oval
+full_art: true
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- gameday
+edhrec_rank: 158
+penny_rank: 2115
+prices:
+  usd: 
+  usd_foil: '13.02'
+  usd_etched: 
+  eur: 
+  eur_foil: '17.86'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Anguished+Unmaking&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Anguished+Unmaking&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Anguished+Unmaking
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/115401?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Anguished+Unmaking&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Anguished+Unmaking&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

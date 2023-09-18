@@ -1,0 +1,18 @@
+---
+object: set
+id: e1068688-13ff-4a3f-8c66-439162505e7a
+code: psoi
+name: Shadows over Innistrad Promos
+uri: https://api.scryfall.com/sets/e1068688-13ff-4a3f-8c66-439162505e7a
+scryfall_uri: https://scryfall.com/sets/psoi
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apsoi&unique=prints
+released_at: '2016-04-08'
+set_type: promo
+card_count: 90
+parent_set_code: soi
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: soi
+block: Shadows over Innistrad
+icon_svg_uri: https://svgs.scryfall.io/sets/soi.svg?1694404800

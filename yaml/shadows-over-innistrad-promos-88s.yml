@@ -1,0 +1,146 @@
+---
+object: card
+id: 2385cf77-9791-4453-831f-eaf9af62270c
+oracle_id: 99d42ae8-8cee-449b-812b-98a81a593077
+multiverse_ids: []
+tcgplayer_id: 116908
+cardmarket_id: 289373
+name: Startled Awake // Persistent Nightmare
+lang: en
+released_at: '2016-04-08'
+uri: https://api.scryfall.com/cards/2385cf77-9791-4453-831f-eaf9af62270c
+scryfall_uri: https://scryfall.com/card/psoi/88s/startled-awake-persistent-nightmare?utm_source=api
+layout: transform
+highres_image: true
+image_status: highres_scan
+cmc: 4.0
+type_line: Sorcery // Creature — Nightmare
+color_identity:
+- U
+keywords:
+- Skulk
+- Transform
+- Mill
+card_faces:
+- object: card_face
+  name: Startled Awake
+  mana_cost: "{2}{U}{U}"
+  type_line: Sorcery
+  oracle_text: |-
+    Target opponent mills thirteen cards.
+    {3}{U}{U}: Put Startled Awake from your graveyard onto the battlefield transformed. Activate only as a sorcery.
+  colors:
+  - U
+  artist: Sean Sevestre
+  artist_id: 711d2a24-64ca-48af-b1cf-5b448f60a1b5
+  illustration_id: d41aebcd-c3ce-46eb-a464-5af6cf8632e9
+  image_uris:
+    small: https://cards.scryfall.io/small/front/2/3/2385cf77-9791-4453-831f-eaf9af62270c.jpg?1562901584
+    normal: https://cards.scryfall.io/normal/front/2/3/2385cf77-9791-4453-831f-eaf9af62270c.jpg?1562901584
+    large: https://cards.scryfall.io/large/front/2/3/2385cf77-9791-4453-831f-eaf9af62270c.jpg?1562901584
+    png: https://cards.scryfall.io/png/front/2/3/2385cf77-9791-4453-831f-eaf9af62270c.png?1562901584
+    art_crop: https://cards.scryfall.io/art_crop/front/2/3/2385cf77-9791-4453-831f-eaf9af62270c.jpg?1562901584
+    border_crop: https://cards.scryfall.io/border_crop/front/2/3/2385cf77-9791-4453-831f-eaf9af62270c.jpg?1562901584
+- object: card_face
+  name: Persistent Nightmare
+  flavor_name: ''
+  mana_cost: ''
+  type_line: Creature — Nightmare
+  oracle_text: |-
+    Skulk (This creature can't be blocked by creatures with greater power.)
+    When Persistent Nightmare deals combat damage to a player, return it to its owner's hand.
+  colors:
+  - U
+  color_indicator:
+  - U
+  power: '1'
+  toughness: '1'
+  flavor_text: '"It seemed so real!"'
+  artist: Sean Sevestre
+  artist_id: 711d2a24-64ca-48af-b1cf-5b448f60a1b5
+  illustration_id: 2c673b90-f2bc-42f1-b1a0-c5cbf785689f
+  image_uris:
+    small: https://cards.scryfall.io/small/back/2/3/2385cf77-9791-4453-831f-eaf9af62270c.jpg?1562901584
+    normal: https://cards.scryfall.io/normal/back/2/3/2385cf77-9791-4453-831f-eaf9af62270c.jpg?1562901584
+    large: https://cards.scryfall.io/large/back/2/3/2385cf77-9791-4453-831f-eaf9af62270c.jpg?1562901584
+    png: https://cards.scryfall.io/png/back/2/3/2385cf77-9791-4453-831f-eaf9af62270c.png?1562901584
+    art_crop: https://cards.scryfall.io/art_crop/back/2/3/2385cf77-9791-4453-831f-eaf9af62270c.jpg?1562901584
+    border_crop: https://cards.scryfall.io/border_crop/back/2/3/2385cf77-9791-4453-831f-eaf9af62270c.jpg?1562901584
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e1068688-13ff-4a3f-8c66-439162505e7a
+set: psoi
+set_name: Shadows over Innistrad Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e1068688-13ff-4a3f-8c66-439162505e7a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsoi&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psoi?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2385cf77-9791-4453-831f-eaf9af62270c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A99d42ae8-8cee-449b-812b-98a81a593077&unique=prints
+collector_number: 88s
+digital: false
+rarity: mythic
+artist: Sean Sevestre
+artist_ids:
+- 711d2a24-64ca-48af-b1cf-5b448f60a1b5
+border_color: black
+frame: '2015'
+frame_effects:
+- sunmoondfc
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 8331
+penny_rank: 5853
+prices:
+  usd: 
+  usd_foil: '6.50'
+  usd_etched: 
+  eur: 
+  eur_foil: '3.49'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Startled+Awake+%2F%2F+Persistent+Nightmare&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Startled+Awake+%2F%2F+Persistent+Nightmare&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Startled+Awake
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/116908?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Startled+Awake&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Startled+Awake&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

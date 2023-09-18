@@ -1,0 +1,126 @@
+---
+object: card
+id: 92c5e37e-3cc9-42bc-bd99-58eebb9c9bf0
+oracle_id: fd62ad01-601f-4250-bc2a-8ef3982e45c4
+multiverse_ids: []
+tcgplayer_id: 116864
+cardmarket_id: 289333
+name: Diregraf Colossus
+lang: en
+released_at: '2016-04-08'
+uri: https://api.scryfall.com/cards/92c5e37e-3cc9-42bc-bd99-58eebb9c9bf0
+scryfall_uri: https://scryfall.com/card/psoi/107s/diregraf-colossus?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/2/92c5e37e-3cc9-42bc-bd99-58eebb9c9bf0.jpg?1562922200
+  normal: https://cards.scryfall.io/normal/front/9/2/92c5e37e-3cc9-42bc-bd99-58eebb9c9bf0.jpg?1562922200
+  large: https://cards.scryfall.io/large/front/9/2/92c5e37e-3cc9-42bc-bd99-58eebb9c9bf0.jpg?1562922200
+  png: https://cards.scryfall.io/png/front/9/2/92c5e37e-3cc9-42bc-bd99-58eebb9c9bf0.png?1562922200
+  art_crop: https://cards.scryfall.io/art_crop/front/9/2/92c5e37e-3cc9-42bc-bd99-58eebb9c9bf0.jpg?1562922200
+  border_crop: https://cards.scryfall.io/border_crop/front/9/2/92c5e37e-3cc9-42bc-bd99-58eebb9c9bf0.jpg?1562922200
+mana_cost: "{2}{B}"
+cmc: 3.0
+type_line: Creature — Zombie Giant
+oracle_text: |-
+  Diregraf Colossus enters the battlefield with a +1/+1 counter on it for each Zombie card in your graveyard.
+  Whenever you cast a Zombie spell, create a tapped 2/2 black Zombie creature token.
+power: '2'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+all_parts:
+- object: related_card
+  id: e0a12a72-5cd9-4f1b-997d-7dabb65e9f51
+  component: token
+  name: Zombie
+  type_line: Token Creature — Zombie
+  uri: https://api.scryfall.com/cards/e0a12a72-5cd9-4f1b-997d-7dabb65e9f51
+- object: related_card
+  id: 92c5e37e-3cc9-42bc-bd99-58eebb9c9bf0
+  component: combo_piece
+  name: Diregraf Colossus
+  type_line: Creature — Zombie Giant
+  uri: https://api.scryfall.com/cards/92c5e37e-3cc9-42bc-bd99-58eebb9c9bf0
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e1068688-13ff-4a3f-8c66-439162505e7a
+set: psoi
+set_name: Shadows over Innistrad Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e1068688-13ff-4a3f-8c66-439162505e7a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsoi&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psoi?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/92c5e37e-3cc9-42bc-bd99-58eebb9c9bf0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afd62ad01-601f-4250-bc2a-8ef3982e45c4&unique=prints
+collector_number: 107s
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Vincent Proce
+artist_ids:
+- d82b1138-76d3-49f7-9d8c-bc2e2d3e0b0a
+illustration_id: 5e44b560-c34d-48ea-99cd-afac6b76a956
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 1317
+penny_rank: 1565
+prices:
+  usd: 
+  usd_foil: '9.97'
+  usd_etched: 
+  eur: 
+  eur_foil: '5.09'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Diregraf+Colossus&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Diregraf+Colossus&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Diregraf+Colossus
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/116864?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Diregraf+Colossus&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Diregraf+Colossus&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

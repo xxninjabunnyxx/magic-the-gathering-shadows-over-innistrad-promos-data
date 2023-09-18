@@ -1,0 +1,125 @@
+---
+object: card
+id: 92081d19-1885-4377-8eb0-f8e833293434
+oracle_id: ab9e2045-860a-40ab-bec1-0dffced003ef
+multiverse_ids: []
+tcgplayer_id: 116863
+cardmarket_id: 289362
+name: Devils' Playground
+lang: en
+released_at: '2016-04-08'
+uri: https://api.scryfall.com/cards/92081d19-1885-4377-8eb0-f8e833293434
+scryfall_uri: https://scryfall.com/card/psoi/151s/devils-playground?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/2/92081d19-1885-4377-8eb0-f8e833293434.jpg?1562922092
+  normal: https://cards.scryfall.io/normal/front/9/2/92081d19-1885-4377-8eb0-f8e833293434.jpg?1562922092
+  large: https://cards.scryfall.io/large/front/9/2/92081d19-1885-4377-8eb0-f8e833293434.jpg?1562922092
+  png: https://cards.scryfall.io/png/front/9/2/92081d19-1885-4377-8eb0-f8e833293434.png?1562922092
+  art_crop: https://cards.scryfall.io/art_crop/front/9/2/92081d19-1885-4377-8eb0-f8e833293434.jpg?1562922092
+  border_crop: https://cards.scryfall.io/border_crop/front/9/2/92081d19-1885-4377-8eb0-f8e833293434.jpg?1562922092
+mana_cost: "{4}{R}{R}"
+cmc: 6.0
+type_line: Sorcery
+oracle_text: Create four 1/1 red Devil creature tokens. They have "When this creature
+  dies, it deals 1 damage to any target."
+colors:
+- R
+color_identity:
+- R
+keywords: []
+all_parts:
+- object: related_card
+  id: 3e78c4b8-371b-43d7-a315-fb299704aa60
+  component: token
+  name: Devil
+  type_line: Token Creature — Devil
+  uri: https://api.scryfall.com/cards/3e78c4b8-371b-43d7-a315-fb299704aa60
+- object: related_card
+  id: 92081d19-1885-4377-8eb0-f8e833293434
+  component: combo_piece
+  name: Devils' Playground
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/92081d19-1885-4377-8eb0-f8e833293434
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e1068688-13ff-4a3f-8c66-439162505e7a
+set: psoi
+set_name: Shadows over Innistrad Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e1068688-13ff-4a3f-8c66-439162505e7a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsoi&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psoi?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/92081d19-1885-4377-8eb0-f8e833293434/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aab9e2045-860a-40ab-bec1-0dffced003ef&unique=prints
+collector_number: 151s
+digital: false
+rarity: rare
+flavor_text: |-
+  "The city is overrun. I would say burn it to the ground, but that won't be necessary."
+  —Inquisitor Delmund
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Wayne England
+artist_ids:
+- 62dc90c0-4bc2-4d42-ad76-59cad9243566
+illustration_id: 6c2a5f9e-a8d0-4f38-bea0-c6aa3f29e75d
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 9459
+prices:
+  usd: 
+  usd_foil: '1.10'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.75'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Devils%27+Playground&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Devils%27+Playground&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Devils%27+Playground
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/116863?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Devils%27+Playground&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Devils%27+Playground&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

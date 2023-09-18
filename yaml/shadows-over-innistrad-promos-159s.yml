@@ -1,0 +1,147 @@
+---
+object: card
+id: d728141b-2bb8-4e18-bb28-971b6641cc05
+oracle_id: 64720167-b88b-47f7-bfc1-d5e005c9fd68
+multiverse_ids: []
+tcgplayer_id: 116880
+cardmarket_id: 289341
+name: Geier Reach Bandit // Vildin-Pack Alpha
+lang: en
+released_at: '2016-04-08'
+uri: https://api.scryfall.com/cards/d728141b-2bb8-4e18-bb28-971b6641cc05
+scryfall_uri: https://scryfall.com/card/psoi/159s/geier-reach-bandit-vildin-pack-alpha?utm_source=api
+layout: transform
+highres_image: true
+image_status: highres_scan
+cmc: 3.0
+type_line: Creature — Human Rogue Werewolf // Creature — Werewolf
+color_identity:
+- R
+keywords:
+- Transform
+- Haste
+card_faces:
+- object: card_face
+  name: Geier Reach Bandit
+  mana_cost: "{2}{R}"
+  type_line: Creature — Human Rogue Werewolf
+  oracle_text: |-
+    Haste
+    At the beginning of each upkeep, if no spells were cast last turn, transform Geier Reach Bandit.
+  colors:
+  - R
+  power: '3'
+  toughness: '2'
+  flavor_text: The cathars realized they had not tracked her—she had led them here.
+  artist: Slawomir Maniak
+  artist_id: d887bc66-2779-416c-a1ff-d8720242063e
+  illustration_id: 3d8213a4-e96a-4af1-8af4-6263064985be
+  image_uris:
+    small: https://cards.scryfall.io/small/front/d/7/d728141b-2bb8-4e18-bb28-971b6641cc05.jpg?1562935226
+    normal: https://cards.scryfall.io/normal/front/d/7/d728141b-2bb8-4e18-bb28-971b6641cc05.jpg?1562935226
+    large: https://cards.scryfall.io/large/front/d/7/d728141b-2bb8-4e18-bb28-971b6641cc05.jpg?1562935226
+    png: https://cards.scryfall.io/png/front/d/7/d728141b-2bb8-4e18-bb28-971b6641cc05.png?1562935226
+    art_crop: https://cards.scryfall.io/art_crop/front/d/7/d728141b-2bb8-4e18-bb28-971b6641cc05.jpg?1562935226
+    border_crop: https://cards.scryfall.io/border_crop/front/d/7/d728141b-2bb8-4e18-bb28-971b6641cc05.jpg?1562935226
+- object: card_face
+  name: Vildin-Pack Alpha
+  flavor_name: ''
+  mana_cost: ''
+  type_line: Creature — Werewolf
+  oracle_text: |-
+    Whenever a Werewolf enters the battlefield under your control, you may transform it.
+    At the beginning of each upkeep, if a player cast two or more spells last turn, transform Vildin-Pack Alpha.
+  colors:
+  - R
+  color_indicator:
+  - R
+  power: '4'
+  toughness: '3'
+  artist: Slawomir Maniak
+  artist_id: d887bc66-2779-416c-a1ff-d8720242063e
+  illustration_id: 1057e79c-5a9a-42dd-bf39-25d4aadbed67
+  image_uris:
+    small: https://cards.scryfall.io/small/back/d/7/d728141b-2bb8-4e18-bb28-971b6641cc05.jpg?1562935226
+    normal: https://cards.scryfall.io/normal/back/d/7/d728141b-2bb8-4e18-bb28-971b6641cc05.jpg?1562935226
+    large: https://cards.scryfall.io/large/back/d/7/d728141b-2bb8-4e18-bb28-971b6641cc05.jpg?1562935226
+    png: https://cards.scryfall.io/png/back/d/7/d728141b-2bb8-4e18-bb28-971b6641cc05.png?1562935226
+    art_crop: https://cards.scryfall.io/art_crop/back/d/7/d728141b-2bb8-4e18-bb28-971b6641cc05.jpg?1562935226
+    border_crop: https://cards.scryfall.io/border_crop/back/d/7/d728141b-2bb8-4e18-bb28-971b6641cc05.jpg?1562935226
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e1068688-13ff-4a3f-8c66-439162505e7a
+set: psoi
+set_name: Shadows over Innistrad Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e1068688-13ff-4a3f-8c66-439162505e7a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsoi&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psoi?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d728141b-2bb8-4e18-bb28-971b6641cc05/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A64720167-b88b-47f7-bfc1-d5e005c9fd68&unique=prints
+collector_number: 159s
+digital: false
+rarity: rare
+artist: Slawomir Maniak
+artist_ids:
+- d887bc66-2779-416c-a1ff-d8720242063e
+border_color: black
+frame: '2015'
+frame_effects:
+- sunmoondfc
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 5899
+penny_rank: 5275
+prices:
+  usd: 
+  usd_foil: '1.65'
+  usd_etched: 
+  eur: 
+  eur_foil: '1.49'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Geier+Reach+Bandit+%2F%2F+Vildin-Pack+Alpha&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Geier+Reach+Bandit+%2F%2F+Vildin-Pack+Alpha&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Geier+Reach+Bandit
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/116880?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Geier+Reach+Bandit&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Geier+Reach+Bandit&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

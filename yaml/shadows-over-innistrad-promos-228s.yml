@@ -1,0 +1,128 @@
+---
+object: card
+id: fea35789-e7ff-4d41-b442-376dae336d59
+oracle_id: dfeb239b-8904-4ef0-9a91-edc901b0c49a
+multiverse_ids: []
+tcgplayer_id: 116903
+cardmarket_id: 289313
+name: Silverfur Partisan
+lang: en
+released_at: '2016-04-08'
+uri: https://api.scryfall.com/cards/fea35789-e7ff-4d41-b442-376dae336d59
+scryfall_uri: https://scryfall.com/card/psoi/228s/silverfur-partisan?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/e/fea35789-e7ff-4d41-b442-376dae336d59.jpg?1562943027
+  normal: https://cards.scryfall.io/normal/front/f/e/fea35789-e7ff-4d41-b442-376dae336d59.jpg?1562943027
+  large: https://cards.scryfall.io/large/front/f/e/fea35789-e7ff-4d41-b442-376dae336d59.jpg?1562943027
+  png: https://cards.scryfall.io/png/front/f/e/fea35789-e7ff-4d41-b442-376dae336d59.png?1562943027
+  art_crop: https://cards.scryfall.io/art_crop/front/f/e/fea35789-e7ff-4d41-b442-376dae336d59.jpg?1562943027
+  border_crop: https://cards.scryfall.io/border_crop/front/f/e/fea35789-e7ff-4d41-b442-376dae336d59.jpg?1562943027
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Creature — Wolf Warrior
+oracle_text: |-
+  Trample
+  Whenever a Wolf or Werewolf you control becomes the target of an instant or sorcery spell, create a 2/2 green Wolf creature token.
+power: '2'
+toughness: '2'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Trample
+all_parts:
+- object: related_card
+  id: 0a5ac360-dc47-4bc5-a4cc-ff223abc3ffc
+  component: token
+  name: Wolf
+  type_line: Token Creature — Wolf
+  uri: https://api.scryfall.com/cards/0a5ac360-dc47-4bc5-a4cc-ff223abc3ffc
+- object: related_card
+  id: fea35789-e7ff-4d41-b442-376dae336d59
+  component: combo_piece
+  name: Silverfur Partisan
+  type_line: Creature — Wolf Warrior
+  uri: https://api.scryfall.com/cards/fea35789-e7ff-4d41-b442-376dae336d59
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e1068688-13ff-4a3f-8c66-439162505e7a
+set: psoi
+set_name: Shadows over Innistrad Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e1068688-13ff-4a3f-8c66-439162505e7a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsoi&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psoi?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/fea35789-e7ff-4d41-b442-376dae336d59/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adfeb239b-8904-4ef0-9a91-edc901b0c49a&unique=prints
+collector_number: 228s
+digital: false
+rarity: rare
+flavor_text: Silverfurs are the last remaining wolfir.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Izzy
+artist_ids:
+- 2c3d2473-ff5d-4309-8194-e0b2def2ab65
+illustration_id: 06e7e03e-8cfb-4f5a-893a-323116ca5e30
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 6079
+penny_rank: 7133
+prices:
+  usd: 
+  usd_foil: '4.95'
+  usd_etched: 
+  eur: 
+  eur_foil: '1.75'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Silverfur+Partisan&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Silverfur+Partisan&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Silverfur+Partisan
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/116903?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Silverfur+Partisan&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Silverfur+Partisan&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,114 @@
+---
+object: card
+id: 23a22389-752d-4937-a5a3-8e30c2c9a11f
+oracle_id: 33befbd6-56ac-45a7-a4d0-448167162707
+multiverse_ids: []
+tcgplayer_id: 116870
+cardmarket_id: 289318
+name: Epiphany at the Drownyard
+lang: en
+released_at: '2016-04-08'
+uri: https://api.scryfall.com/cards/23a22389-752d-4937-a5a3-8e30c2c9a11f
+scryfall_uri: https://scryfall.com/card/psoi/59s/epiphany-at-the-drownyard?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/3/23a22389-752d-4937-a5a3-8e30c2c9a11f.jpg?1562901602
+  normal: https://cards.scryfall.io/normal/front/2/3/23a22389-752d-4937-a5a3-8e30c2c9a11f.jpg?1562901602
+  large: https://cards.scryfall.io/large/front/2/3/23a22389-752d-4937-a5a3-8e30c2c9a11f.jpg?1562901602
+  png: https://cards.scryfall.io/png/front/2/3/23a22389-752d-4937-a5a3-8e30c2c9a11f.png?1562901602
+  art_crop: https://cards.scryfall.io/art_crop/front/2/3/23a22389-752d-4937-a5a3-8e30c2c9a11f.jpg?1562901602
+  border_crop: https://cards.scryfall.io/border_crop/front/2/3/23a22389-752d-4937-a5a3-8e30c2c9a11f.jpg?1562901602
+mana_cost: "{X}{U}"
+cmc: 1.0
+type_line: Instant
+oracle_text: Reveal the top X plus one cards of your library and separate them into
+  two piles. An opponent chooses one of those piles. Put that pile into your hand
+  and the other into your graveyard.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e1068688-13ff-4a3f-8c66-439162505e7a
+set: psoi
+set_name: Shadows over Innistrad Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e1068688-13ff-4a3f-8c66-439162505e7a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsoi&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psoi?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/23a22389-752d-4937-a5a3-8e30c2c9a11f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A33befbd6-56ac-45a7-a4d0-448167162707&unique=prints
+collector_number: 59s
+digital: false
+rarity: rare
+flavor_text: |-
+  "Is this what you found, Tamiyo?"
+  —Jace Beleren
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Titus Lunter
+artist_ids:
+- b11e6b3a-f4ca-4cf1-8fd7-475696de5f5c
+illustration_id: 687436d7-51d9-4060-8323-1d1777d03d5a
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 7199
+penny_rank: 3438
+prices:
+  usd: 
+  usd_foil: '1.05'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.48'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Epiphany+at+the+Drownyard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Epiphany+at+the+Drownyard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Epiphany+at+the+Drownyard
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/116870?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Epiphany+at+the+Drownyard&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Epiphany+at+the+Drownyard&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

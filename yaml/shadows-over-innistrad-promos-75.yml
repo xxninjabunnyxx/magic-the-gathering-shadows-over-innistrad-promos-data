@@ -1,0 +1,113 @@
+---
+object: card
+id: f058a7a6-9414-4bcd-b10c-bd4308885761
+oracle_id: 95649140-7978-4684-a1f1-af771e1d345a
+multiverse_ids: []
+tcgplayer_id: 115406
+cardmarket_id: 289364
+name: Nephalia Moondrakes
+lang: en
+released_at: '2016-04-08'
+uri: https://api.scryfall.com/cards/f058a7a6-9414-4bcd-b10c-bd4308885761
+scryfall_uri: https://scryfall.com/card/psoi/75/nephalia-moondrakes?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/0/f058a7a6-9414-4bcd-b10c-bd4308885761.jpg?1562940207
+  normal: https://cards.scryfall.io/normal/front/f/0/f058a7a6-9414-4bcd-b10c-bd4308885761.jpg?1562940207
+  large: https://cards.scryfall.io/large/front/f/0/f058a7a6-9414-4bcd-b10c-bd4308885761.jpg?1562940207
+  png: https://cards.scryfall.io/png/front/f/0/f058a7a6-9414-4bcd-b10c-bd4308885761.png?1562940207
+  art_crop: https://cards.scryfall.io/art_crop/front/f/0/f058a7a6-9414-4bcd-b10c-bd4308885761.jpg?1562940207
+  border_crop: https://cards.scryfall.io/border_crop/front/f/0/f058a7a6-9414-4bcd-b10c-bd4308885761.jpg?1562940207
+mana_cost: "{5}{U}{U}"
+cmc: 7.0
+type_line: Creature — Drake
+oracle_text: |-
+  Flying
+  When Nephalia Moondrakes enters the battlefield, target creature gains flying until end of turn.
+  {4}{U}{U}, Exile Nephalia Moondrakes from your graveyard: Creatures you control gain flying until end of turn.
+power: '5'
+toughness: '5'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e1068688-13ff-4a3f-8c66-439162505e7a
+set: psoi
+set_name: Shadows over Innistrad Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e1068688-13ff-4a3f-8c66-439162505e7a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsoi&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psoi?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f058a7a6-9414-4bcd-b10c-bd4308885761/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A95649140-7978-4684-a1f1-af771e1d345a&unique=prints
+collector_number: '75'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Chris Rahn
+artist_ids:
+- 7742047e-0f80-4c0f-a530-d07460165e86
+illustration_id: b78fd607-7d6a-479e-9933-46c8ac97a4ca
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- intropack
+edhrec_rank: 22270
+prices:
+  usd: 
+  usd_foil: '0.42'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.50'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nephalia+Moondrakes&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nephalia+Moondrakes&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Nephalia+Moondrakes
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/115406?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nephalia+Moondrakes&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nephalia+Moondrakes&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
